@@ -1,0 +1,71 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 381.48 208.99">
+  <title>monitoringSystem</title>
+  <g>
+    <text transform="translate(88.59 21.44)" style="font-size: 12px;fill: #2a3b8f;font-family: Whitney">0 - Kinde<tspan x="45.63" y="0">r</tspan><tspan x="49.46" y="0">g</tspan><tspan x="55.4" y="0">a</tspan><tspan x="61.17" y="0">r</tspan><tspan x="65.27" y="0">t</tspan><tspan x="69.11" y="0">en</tspan></text>
+    <text transform="translate(206.44 21.44)" style="font-size: 12px;fill: #f7941e;font-family: Whitney">G<tspan x="8.29" y="0">r</tspan><tspan x="12.06" y="0">ade 4</tspan></text>
+    <text transform="translate(23.23 151.26)" style="font-size: 18px;fill: #8cc541;font-family: Whitney;font-weight: 700">TDI</text>
+    <text transform="translate(76.78 151.26)" style="font-size: 18px;fill: #2a3b8f;font-family: Whitney;font-weight: 700">CH<tspan x="23.62" y="0">E</tspan><tspan x="33.08" y="0">Q</tspan></text>
+    <text transform="translate(149.34 151.26)" style="font-size: 18px;fill: #eb2227;font-family: Whitney;font-weight: 700">EDI</text>
+    <text transform="translate(209.27 151.26)" style="font-size: 18px;fill: #f7941e;font-family: Whitney;font-weight: 700">MDI</text>
+    <text transform="translate(338.44 151.26)" style="font-size: 18px;fill: #bcbec0;font-family: Whitney;font-weight: 700">YDI</text>
+    <text transform="translate(331.42 21.44)" style="font-size: 12px;fill: #bcbec0;font-family: Whitney">G<tspan x="8.29" y="0">r</tspan><tspan x="12.06" y="0">ade 10</tspan></text>
+    <text transform="translate(23.14 197.01)" style="font-size: 16px;fill: #8cc541;font-family: Whitney">18M</text>
+    <text transform="translate(82.8 197.01)" style="font-size: 16px;fill: #2a3b8f;font-family: Whitney">0-5Y</text>
+    <text transform="translate(153.95 197.01)" style="font-size: 16px;fill: #eb2227;font-family: Whitney">5Y</text>
+    <text transform="translate(216.81 197.01)" style="font-size: 16px;fill: #f7941e;font-family: Whitney">9Y</text>
+    <text transform="translate(17.32 21.44)" style="font-size: 12px;fill: #8cc541;font-family: Whitney"><tspan style="letter-spacing: -1px">T</tspan><tspan x="5.26" y="0">oddle</tspan><tspan x="32.63" y="0">r</tspan><tspan x="36.5" y="0">s</tspan></text>
+    <text transform="translate(272.79 151.37)" style="font-size: 18px;fill: #f7941e;font-family: Whitney;font-weight: 700">MDI</text>
+    <text transform="translate(277.75 197.01)" style="font-size: 16px;fill: #f7941e;font-family: Whitney">12Y</text>
+    <text transform="translate(270.33 21.44)" style="font-size: 12px;fill: #f7941e;font-family: Whitney">G<tspan x="8.29" y="0">r</tspan><tspan x="12.06" y="0">ade 7</tspan></text>
+    <text transform="translate(341.44 197.01)" style="font-size: 16px;fill: #bcbec0;font-family: Whitney">15Y</text>
+    <text transform="translate(97.26 40.06)" style="font-size: 12px;fill: #eb2227;font-family: Whitney">Kinde<tspan x="28.3" y="0">r</tspan><tspan x="32.12" y="0">g</tspan><tspan x="38.06" y="0">a</tspan><tspan x="43.83" y="0">r</tspan><tspan x="47.93" y="0">t</tspan><tspan x="51.77" y="0">en</tspan></text>
+    <g>
+      <path d="M158,95.83v5.61l-0.6,17a2.4,2.4,0,0,0,2.32,2.49h0.09c1.29,0,2.85-15.09,2.85-15.09l1.88-.47S167.43,121,168.62,121l0.31,0a2.4,2.4,0,0,0,2.07-2.69l-2.38-18.13-0.06-4.58" style="fill: none;stroke: #eb2227;stroke-miterlimit: 10"/>
+      <path d="M167.81,94.89s7.77,6.17,8.17,5.8a2.06,2.06,0,0,0,.1-2.91l-7.45-8.24a2,2,0,0,0-1.12-.61l-0.62,0h-0.73V88.5a4.85,4.85,0,1,0-4.74.09v0.29h-2a1.38,1.38,0,0,0-.32,0H159a2,2,0,0,0-1.12.61l-7.45,8.24a2.06,2.06,0,0,0,.1,2.91c0.4,0.37,8.33-5.86,8.33-5.86" style="fill: none;stroke: #eb2227;stroke-miterlimit: 10"/>
+    </g>
+    <g>
+      <path d="M42.38,110.63c0.88,1.14,3.07,3.86,2.95,6a7.17,7.17,0,0,1-3.22,5.2,2,2,0,0,1-1.14.35c-0.77,0-1-2.23-.51-2.87a7.66,7.66,0,0,0,1.18-2.24,5.58,5.58,0,0,0-.61-2" style="fill: none;stroke: #8cc541;stroke-miterlimit: 10"/>
+      <path d="M42.38,108.68v-2.41a12.37,12.37,0,0,1,4.15,2.19c0.58,0.46,2.66.71,3,.1,0.67-1.13-4.4-4.94-6.35-6A14.82,14.82,0,0,0,40,101.25a4.6,4.6,0,1,0-5.29,0,19.83,19.83,0,0,0-4.24,2c-1.79,1.17-5.08,4.09-4.42,5.23,0.36,0.61,2.63.22,2.84,0a5.53,5.53,0,0,1,3.51-1.94v2.21" style="fill: none;stroke: #8cc541;stroke-miterlimit: 10"/>
+      <path d="M34.36,115.19a11,11,0,0,0-.67,1.82,10.35,10.35,0,0,0,1.09,2.23c0.42,0.68.34,2.94-.43,2.94h0a2,2,0,0,1-1.14-.35C32,121,30,118.66,30,116.64a14,14,0,0,1,2.49-6" style="fill: none;stroke: #8cc541;stroke-miterlimit: 10"/>
+      <polygon points="32.04 109.56 42.88 109.56 42.88 110.47 39.11 115.13 36.05 115.13 32.04 110.47 32.04 109.56" style="fill: none;stroke: #8cc541;stroke-miterlimit: 10"/>
+      <path d="M32.44,106.51l1-1.1Z" style="fill: none;stroke: #8cc541;stroke-miterlimit: 10"/>
+      <path d="M42.38,106.27l-0.74-.86Z" style="fill: none;stroke: #8cc541;stroke-miterlimit: 10"/>
+    </g>
+    <g>
+      <path d="M112,78.83c-1.12-.29-4.46,8.85-4.46,8.85l-4.29,2h-0.73V89.25a4.85,4.85,0,1,0-4.74.09v0.29h-2a1.38,1.38,0,0,0-.32,0,2,2,0,0,0-1.12.61l-7.45,8.24a2.06,2.06,0,0,0,.1,2.91c0.4,0.37,7.42-5.14,7.42-5.14v5.89l-0.6,17a2.4,2.4,0,0,0,2.32,2.49h0.09c1.29,0,2.85-15.09,2.85-15.09l1.88-.64s2.88,15.73,4.07,15.73l0.31,0a2.4,2.4,0,0,0,2.07-2.69L105,100.87l-0.06-7.37,5.28-2.41a2.1,2.1,0,0,0,1.17-1.39l2.14-8.31A2.1,2.1,0,0,0,112,78.83Z" style="fill: none;stroke: #21409a;stroke-miterlimit: 10"/>
+      <path d="M103,94.27l1.88-.75Z" style="fill: none;stroke: #21409a;stroke-miterlimit: 10"/>
+      <path d="M94.37,96.3l1-1.16Z" style="fill: none;stroke: #21409a;stroke-miterlimit: 10"/>
+    </g>
+    <g>
+      <line x1="232.54" y1="92.81" x2="232.48" y2="86.96" style="fill: none;stroke: #f7941e;stroke-miterlimit: 10"/>
+      <path d="M232.54,95.42l2.77,21.05a2.79,2.79,0,0,1-2.41,3.13l-0.36,0c-1.38,0-4.72-18-4.72-18l-2.18.44s-1.81,17.52-3.31,17.52h-0.1a2.79,2.79,0,0,1-2.69-2.89l0.7-21.31h12.31Z" style="fill: none;stroke: #f7941e;stroke-miterlimit: 10"/>
+      <line x1="220.24" y1="86.58" x2="220.24" y2="95.42" style="fill: none;stroke: #f7941e;stroke-miterlimit: 10"/>
+      <path d="M231.61,85.43s6,10.55,6.43,10.12c1-.9,1-2.64.38-4.55l-5.86-11.78a2.36,2.36,0,0,0-1.3-.71l-0.72,0h-0.84V78a5.63,5.63,0,1,0-5.5.1v0.34h-2.35a1.6,1.6,0,0,0-.38,0h-0.1a2.36,2.36,0,0,0-1.3.71l-6,12.37A5.27,5.27,0,0,0,215,96c0.46,0.43,5.91-10.69,5.91-10.69" style="fill: none;stroke: #f7941e;stroke-miterlimit: 10"/>
+    </g>
+    <g>
+      <line x1="295.2" y1="84.66" x2="295.13" y2="75.16" style="fill: none;stroke: #f7941e;stroke-miterlimit: 10"/>
+      <path d="M295.2,87.66L298,115.18a2.79,2.79,0,0,1-2.41,3.13l-0.36,0c-1.38,0-4.72-23.12-4.72-23.12l-2.18.29s-1.81,22.83-3.31,22.83h-0.1a2.79,2.79,0,0,1-2.69-2.89l0.7-27.79H295.2Z" style="fill: none;stroke: #f7941e;stroke-miterlimit: 10"/>
+      <line x1="282.9" y1="79.14" x2="282.9" y2="87.85" style="fill: none;stroke: #f7941e;stroke-miterlimit: 10"/>
+      <path d="M294.27,74.33s1.5,1.24,3.93,3.05c2.19,1.64-2.39,5.22-2.23,5.47,2.28,3.71,8.05-5,7.15-6l-2.82-3.11-5.1-5.63a2.36,2.36,0,0,0-1.3-.71l-0.72,0h-0.84V66.92a5.63,5.63,0,1,0-5.5.1v0.34L284,68a4.36,4.36,0,0,0-2.75,2.63L276.8,88.06a2.62,2.62,0,0,0,1.72,3.54c0.49,0.16,6-17.89,6-17.89" style="fill: none;stroke: #f7941e;stroke-miterlimit: 10"/>
+    </g>
+    <g>
+      <line x1="361.2" y1="77.73" x2="361.11" y2="66.14" style="fill: none;stroke: #bcbec0;stroke-miterlimit: 10"/>
+      <path d="M361.2,81.38l3.37,33.56a3.4,3.4,0,0,1-2.93,3.81l-0.44,0c-1.68,0-5.76-28.19-5.76-28.19l-2.65.35s-2.21,27.83-4,27.83h-0.12a3.4,3.4,0,0,1-3.28-3.52l0.85-33.88h15Z" style="fill: none;stroke: #bcbec0;stroke-miterlimit: 10"/>
+      <line x1="346.19" y1="66.1" x2="346.19" y2="81.61" style="fill: none;stroke: #bcbec0;stroke-miterlimit: 10"/>
+      <path d="M360.05,65.13A10,10,0,0,1,364.6,69c0.69,1-2.88,11.18-2.52,11.23,3.32,0.52,8.26-12,7.16-13.13l-8-9.57a2.88,2.88,0,0,0-1.58-.87l-0.88-.06h-1V56.1a6.86,6.86,0,1,0-6.71.12v0.42l-1.92.15a3.51,3.51,0,0,0-2,.59s-8.53,7.49-9.32,10.16c0.69,5.23,6.71,14,7.58,12.57,1.4,0-3-9.92-2.8-10.55s5.06-4.68,5.06-4.68" style="fill: none;stroke: #bcbec0;stroke-miterlimit: 10"/>
+    </g>
+    <line x1="5.16" y1="170.28" x2="377.48" y2="170.28" style="fill: none;stroke: #aea299;stroke-miterlimit: 10"/>
+    <circle cx="37.8" cy="170.55" r="3.8" style="fill: #fff;stroke: #aea299;stroke-miterlimit: 10"/>
+    <circle cx="99.93" cy="170.35" r="3.8" style="fill: #fff;stroke: #aea299;stroke-miterlimit: 10"/>
+    <circle cx="163.24" cy="170.55" r="3.8" style="fill: #fff;stroke: #aea299;stroke-miterlimit: 10"/>
+    <circle cx="226.38" cy="170.55" r="3.8" style="fill: #fff;stroke: #aea299;stroke-miterlimit: 10"/>
+    <circle cx="289.9" cy="170.35" r="3.8" style="fill: #fff;stroke: #aea299;stroke-miterlimit: 10"/>
+    <circle cx="353.58" cy="170.35" r="3.8" style="fill: #fff;stroke: #aea299;stroke-miterlimit: 10"/>
+    <circle cx="37.8" cy="170.55" r="2.66" style="fill: #8cc541"/>
+    <circle cx="99.93" cy="170.35" r="2.66" style="fill: #2a3b8f"/>
+    <circle cx="163.24" cy="170.55" r="2.66" style="fill: #eb2227"/>
+    <circle cx="226.38" cy="170.55" r="2.66" style="fill: #f7941e"/>
+    <circle cx="289.9" cy="170.35" r="2.66" style="fill: #f7941e"/>
+    <circle cx="353.58" cy="170.35" r="2.66" style="fill: #bcbec0"/>
+  </g>
+</svg>

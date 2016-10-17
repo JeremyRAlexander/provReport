@@ -1,0 +1,57 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 331.2 273.6">
+  <title>subscaleLine</title>
+  <g>
+    <g>
+      <path d="M52.58,202.21H328.13m-275.56-36H328.13M52.58,130.1H328.13m-275.56-36H328.13M52.58,58H328.13m-275.56-36H328.13" style="fill: none;stroke: #d9d9d9;stroke-linejoin: round;stroke-width: 0.75px"/>
+      <line x1="52.58" y1="238.3" x2="328.13" y2="238.3" style="fill: none;stroke: #d9d9d9;stroke-linejoin: round"/>
+      <polyline points="80.13 130.13 135.23 116.25 190.35 90.09 245.47 39.08 300.58 77.56" style="fill: none;stroke: #c8e4bf;stroke-linecap: round;stroke-linejoin: round"/>
+      <path d="M82.66,130.06a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #c8e4bf"/>
+      <path d="M137.78,116.14a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #c8e4bf"/>
+      <path d="M192.9,90.05a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #c8e4bf"/>
+      <path d="M248,39a2.59,2.59,0,1,1-2.59-2.59A2.59,2.59,0,0,1,248,39" style="fill: #c8e4bf"/>
+      <path d="M303.07,77.53a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #c8e4bf"/>
+      <polyline points="80.13 130.14 135.23 122.26 190.35 114.99 245.47 91.34 300.58 89.46" style="fill: none;stroke: #75c376;stroke-linecap: round;stroke-linejoin: round"/>
+      <path d="M82.66,130.06a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #75c376"/>
+      <path d="M137.78,122.23a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #75c376"/>
+      <path d="M192.9,114.88a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #75c376"/>
+      <path d="M248,91.31a2.59,2.59,0,1,1-2.59-2.59A2.59,2.59,0,0,1,248,91.31" style="fill: #75c376"/>
+      <path d="M303.07,89.42a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #75c376"/>
+      <polyline points="80.13 130.13 135.23 163.28 190.35 145.48 245.47 141.15 300.58 135.2" style="fill: none;stroke: #066d38;stroke-linecap: round;stroke-linejoin: round"/>
+      <path d="M82.66,130.06a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #066d38"/>
+      <path d="M137.78,163.22a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #066d38"/>
+      <path d="M192.9,145.45a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #066d38"/>
+      <path d="M248,141.11a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #066d38"/>
+      <path d="M303.07,135.17a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #066d38"/>
+      <text transform="translate(31.6 23.94)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">-<tspan x="2.27" y="0">0</tspan><tspan x="6.23" y="0">.</tspan><tspan x="8.13" y="0">3</tspan><tspan x="12.08" y="0">0</tspan></text>
+      <text transform="translate(31.6 60)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">-<tspan x="2.27" y="0">0</tspan><tspan x="6.23" y="0">.</tspan><tspan x="8.13" y="0">2</tspan><tspan x="12.08" y="0">0</tspan></text>
+      <text transform="translate(31.6 96.05)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">-<tspan x="2.27" y="0">0</tspan><tspan x="6.23" y="0">.</tspan><tspan x="8.13" y="0">1</tspan><tspan x="12.08" y="0">0</tspan></text>
+      <text transform="translate(33.74 132.11)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">0<tspan x="4.02" y="0">.</tspan><tspan x="5.85" y="0">0</tspan><tspan x="9.87" y="0">0</tspan></text>
+      <text transform="translate(33.74 168.17)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">0<tspan x="4.02" y="0">.</tspan><tspan x="5.85" y="0">1</tspan><tspan x="9.87" y="0">0</tspan></text>
+      <text transform="translate(33.74 204.23)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">0<tspan x="4.02" y="0">.</tspan><tspan x="5.85" y="0">2</tspan><tspan x="9.87" y="0">0</tspan></text>
+      <g>
+        <line x1="16.19" y1="20.29" x2="16.19" y2="239.12" style="fill: none;stroke: #d9d9d8;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <polygon points="10.21 22.04 16.19 11.68 22.18 22.04 10.21 22.04" style="fill: #d9d9d8"/>
+        <polygon points="10.21 237.37 16.19 247.73 22.18 237.37 10.21 237.37" style="fill: #d9d9d8"/>
+      </g>
+      <text transform="translate(3.07 7.78)" style="font-size: 9px;fill: #595a5c;font-family: Open Sans">Worse</text>
+      <text transform="translate(4.07 258.78)" style="font-size: 9px;fill: #595a5c;font-family: Open Sans">Better</text>
+      <text transform="translate(46.99 112.84)" style="font-size: 8px;fill: #595a5c;font-family: Open Sans">Provincial average <tspan x="18.02" y="9.6">(Wave 2)</tspan></text>
+    </g>
+    <g>
+      <g>
+        <text transform="translate(62.62 259.34)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans;font-weight: 700">W<tspan x="7.98" y="0">A</tspan><tspan x="13.21" y="0">VE 2</tspan><tspan x="31.31" y="0" style="fill: #595a5c"> </tspan></text>
+        <text transform="translate(117.38 259.34)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans;font-weight: 700">W<tspan x="7.98" y="0">A</tspan><tspan x="13.21" y="0">VE 3</tspan></text>
+        <text transform="translate(172.61 259.34)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans;font-weight: 700">W<tspan x="7.98" y="0">A</tspan><tspan x="13.21" y="0">VE 4</tspan></text>
+        <text transform="translate(227.33 259.34)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans;font-weight: 700">W<tspan x="7.98" y="0">A</tspan><tspan x="13.21" y="0">VE 5</tspan></text>
+        <text transform="translate(282.82 259.34)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans;font-weight: 700">W<tspan x="7.98" y="0">A</tspan><tspan x="13.21" y="0">VE 6</tspan></text>
+      </g>
+      <g>
+        <text transform="translate(61.39 271.19)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans">2004-07</text>
+        <text transform="translate(116.15 271.19)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans">2007-09</text>
+        <text transform="translate(171.38 271.19)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans">2009-11</text>
+        <text transform="translate(226.1 271.19)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans">2011-13</text>
+        <text transform="translate(281.59 271.19)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans">2013-16</text>
+      </g>
+    </g>
+  </g>
+</svg>

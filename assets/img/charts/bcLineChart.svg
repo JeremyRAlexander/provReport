@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="bcVulnIntroLineChart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="184px" height="67px" viewBox="8.25 89.5 184 67" enable-background="new 8.25 89.5 184 67"
+	 xml:space="preserve">
+	<title>bc_lineHeatmap</title>
+
+	<g id="chartLines">
+		<g id="vulnLine">
+			<polyline id="vulnChartLine" fill="none" stroke="#CB181D" stroke-linejoin="round" points="25.364,121.646 62.681,127.21 
+				100.001,117.018 137.318,109.602 174.635,110.991"/>
+			<ellipse id="wave2Circle" class="nodeCircle" fill="#CB181D" stroke="#FFFFFF" stroke-miterlimit="10" cx="25.364" cy="121.204" rx="2.532" ry="2.532"/>
+			<ellipse id="wave3Circle" class="nodeCircle" fill="#CB181D" stroke="#FFFFFF" stroke-miterlimit="10" cx="62.681" cy="126.79" rx="2.532" ry="2.532"/>
+			<ellipse id="wave4Circle" class="nodeCircle" fill="#CB181D" stroke="#FFFFFF" stroke-miterlimit="10" cx="100.001" cy="117.034" rx="2.532" ry="2.532"/>
+			<ellipse id="wave5Circle" class="nodeCircle" fill="#CB181D" stroke="#FFFFFF" stroke-miterlimit="10" cx="137.318" cy="109.602" rx="2.531" ry="2.531"/>
+			<ellipse id="wave6Circle" class="nodeCircle" fill="#CB181D" stroke="#FFFFFF" stroke-miterlimit="10" cx="174.635" cy="111.15" rx="2.531" ry="2.531"/>
+		</g>
+	</g>
+	<g id="waveDataLabels">	
+		<text id="wave2DataLabel" class="waveDataLabel" transform="matrix(1 0 0 1 9.1377 111.4395)" fill="#CB181D" font-family="'Lato-Light'" font-size="12">29.9%</text>
+		<text id="wave3DataLabel" class="waveDataLabel" transform="matrix(1 0 0 1 46.4541 117.0254)" fill="#CB181D" font-family="'Lato-Light'" font-size="12">28.7%</text>
+		<text id="wave4DataLabel" class="waveDataLabel" transform="matrix(1 0 0 1 83.7744 107.2695)" fill="#CB181D" font-family="'Lato-Light'" font-size="12">30.9%</text>
+		<text id="wave5DataLabel" class="waveDataLabel" transform="matrix(1 0 0 1 121.0898 99.8379)" fill="#CB181D" font-family="'Lato-Light'" font-size="12">32.2%</text>
+		<text id="wave6DataLabel" class="waveDataLabel" transform="matrix(1 0 0 1 158.4082 101.3867)" fill="#CB181D" font-family="'Lato-Light'" font-size="12">32.5%</text>
+	</g>
+	<g id="waveAxisLabels">
+		<g id="wave2AxisLabel">
+			<text transform="matrix(1 0 0 1 15.9834 154.6289)" fill="#7B6E66" font-family="'OpenSans'" font-size="5">2004-07</text>
+			<text transform="matrix(1 0 0 1 16.1211 148.0088)" fill="#7B6E66" font-family="'OpenSans-Bold'" font-size="5">WAVE 2</text>
+		</g>
+
+		<g id="wave3AxisLabel">
+			<text transform="matrix(1 0 0 1 53.2998 154.6289)" fill="#7B6E66" font-family="'OpenSans'" font-size="5">2007-09</text>
+			<text transform="matrix(1 0 0 1 53.4375 148.0088)" fill="#7B6E66" font-family="'OpenSans-Bold'" font-size="5">WAVE 3</text>
+		</g>
+
+		<g id="wave4AxisLabel">
+			<text transform="matrix(1 0 0 1 90.6206 154.6289)" fill="#7B6E66" font-family="'OpenSans'" font-size="5">2009-11</text>
+			<text transform="matrix(1 0 0 1 90.7583 148.0088)" fill="#7B6E66" font-family="'OpenSans-Bold'" font-size="5">WAVE 4</text>
+		</g>
+
+		<g id="wave5AxisLabel">
+			<text transform="matrix(1 0 0 1 127.9375 154.6768)" fill="#7B6E66" font-family="'OpenSans'" font-size="5">2011-13</text>
+			<text transform="matrix(1 0 0 1 128.0742 148.0566)" fill="#7B6E66" font-family="'OpenSans-Bold'" font-size="5">WAVE 5</text>
+		</g>
+
+		<g id="wave6AxisLabel">
+			<text transform="matrix(1 0 0 1 165.2539 154.6768)" fill="#7B6E66" font-family="'OpenSans'" font-size="5">2013-16</text>
+			<text transform="matrix(1 0 0 1 165.3926 148.0566)" fill="#7B6E66" font-family="'OpenSans-Bold'" font-size="5">WAVE 6</text>
+		</g>
+	</g>
+</svg>

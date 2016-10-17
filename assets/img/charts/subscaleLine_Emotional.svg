@@ -1,0 +1,70 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 331.2 273.6">
+  <title>subscaleLine</title>
+  <g>
+    <g>
+      <g>
+        <path d="M53.3,238.44H328.63m-275.33-36H328.63m-275.33-36H328.63M53.3,94.56H328.63M53.3,58.54H328.63M53.3,22.58H328.63" style="fill: none;stroke: #d9d9d9;stroke-linejoin: round;stroke-width: 0.75px"/>
+        <line x1="53.3" y1="130.51" x2="328.63" y2="130.51" style="fill: none;stroke: #d9d9d9;stroke-linejoin: round"/>
+        <polyline points="80.84 130.51 135.89 127.72 190.94 106.31 246.05 70.22 301.1 60.84" style="fill: none;stroke: #dadaeb;stroke-linecap: round;stroke-linejoin: round"/>
+        <path d="M83.32,130.41a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #dadaeb"/>
+        <path d="M138.44,127.61a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #dadaeb"/>
+        <path d="M193.49,106.21a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #dadaeb"/>
+        <path d="M248.54,70.12a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #dadaeb"/>
+        <path d="M303.59,60.74A2.59,2.59,0,1,1,301,58.16a2.59,2.59,0,0,1,2.59,2.59" style="fill: #dadaeb"/>
+        <polyline points="80.84 130.52 135.89 133.82 190.94 129.82 246.05 102.26 301.1 59.99" style="fill: none;stroke: #afabd1;stroke-linecap: round;stroke-linejoin: round"/>
+        <path d="M83.32,130.48a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #afabd1"/>
+        <path d="M138.44,133.77a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #afabd1"/>
+        <path d="M193.49,129.78a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #afabd1"/>
+        <path d="M248.54,102.22a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #afabd1"/>
+        <path d="M303.59,59.9A2.59,2.59,0,1,1,301,57.32a2.59,2.59,0,0,1,2.59,2.59" style="fill: #afabd1"/>
+        <polyline points="80.84 130.52 135.89 138.2 190.94 129.96 246.05 109.25 301.1 82.93" style="fill: none;stroke: #756bb1;stroke-linecap: round;stroke-linejoin: round"/>
+        <path d="M83.32,130.41a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #756bb1"/>
+        <path d="M138.44,138.11a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #756bb1"/>
+        <path d="M193.49,129.92a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #756bb1"/>
+        <path d="M248.54,109.15a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #756bb1"/>
+        <path d="M303.59,82.85A2.59,2.59,0,1,1,301,80.26a2.59,2.59,0,0,1,2.59,2.59" style="fill: #756bb1"/>
+        <polyline points="80.84 130.51 135.89 97.29 190.94 94.36 246.05 118.14 301.1 128.84" style="fill: none;stroke: #542e8d;stroke-linecap: round;stroke-linejoin: round"/>
+        <path d="M83.32,130.41a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #542e8d"/>
+        <path d="M138.44,97.26a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #542e8d"/>
+        <path d="M193.49,94.32a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #542e8d"/>
+        <path d="M248.54,118.1a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #542e8d"/>
+        <path d="M303.59,128.8a2.59,2.59,0,1,1-2.59-2.59,2.59,2.59,0,0,1,2.59,2.59" style="fill: #542e8d"/>
+        <text transform="translate(32.33 24.56)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">-<tspan x="2.27" y="0">0</tspan><tspan x="6.23" y="0">.</tspan><tspan x="8.13" y="0">3</tspan><tspan x="12.08" y="0">0</tspan></text>
+        <text transform="translate(32.33 60.55)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">-<tspan x="2.27" y="0">0</tspan><tspan x="6.23" y="0">.</tspan><tspan x="8.13" y="0">2</tspan><tspan x="12.08" y="0">0</tspan></text>
+        <text transform="translate(32.33 96.53)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">-<tspan x="2.27" y="0">0</tspan><tspan x="6.23" y="0">.</tspan><tspan x="8.13" y="0">1</tspan><tspan x="12.08" y="0">0</tspan></text>
+        <text transform="translate(34.47 132.51)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">0<tspan x="4.02" y="0">.</tspan><tspan x="5.85" y="0">0</tspan><tspan x="9.87" y="0">0</tspan></text>
+        <text transform="translate(34.47 168.49)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">0<tspan x="4.02" y="0">.</tspan><tspan x="5.85" y="0">1</tspan><tspan x="9.87" y="0">0</tspan></text>
+        <text transform="translate(34.47 204.47)" style="font-size: 6.994772911071777px;fill: #595959;font-family: Open Sans">0<tspan x="4.02" y="0">.</tspan><tspan x="5.85" y="0">2</tspan><tspan x="9.87" y="0">0</tspan></text>
+        <text transform="translate(63.52 142.98)" style="font-size: 8px;fill: #595a5c;font-family: Open Sans">Provincial <tspan x="3.31" y="9.6">average </tspan><tspan x="2.21" y="19.2">(Wave 2)</tspan></text>
+      </g>
+      <g>
+        <line x1="15.03" y1="20.26" x2="15.03" y2="239.08" style="fill: none;stroke: #d9d9d8;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <polygon points="9.05 22.01 15.03 11.64 21.02 22.01 9.05 22.01" style="fill: #d9d9d8"/>
+        <polygon points="9.05 237.33 15.03 247.69 21.02 237.33 9.05 237.33" style="fill: #d9d9d8"/>
+      </g>
+      <g>
+        <line x1="15.03" y1="20.26" x2="15.03" y2="239.08" style="fill: none;stroke: #d9d9d8;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <polygon points="9.05 22.01 15.03 11.64 21.02 22.01 9.05 22.01" style="fill: #d9d9d8"/>
+        <polygon points="9.05 237.33 15.03 247.69 21.02 237.33 9.05 237.33" style="fill: #d9d9d8"/>
+      </g>
+      <text transform="translate(2.42 7.75)" style="font-size: 9px;fill: #595a5c;font-family: Open Sans">Worse</text>
+      <text transform="translate(2.42 258.75)" style="font-size: 9px;fill: #595a5c;font-family: Open Sans">Better</text>
+    </g>
+    <g>
+      <g>
+        <text transform="translate(62.62 259.37)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans;font-weight: 700">W<tspan x="7.98" y="0">A</tspan><tspan x="13.21" y="0">VE 2</tspan><tspan x="31.31" y="0" style="fill: #595a5c"> </tspan></text>
+        <text transform="translate(117.38 259.37)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans;font-weight: 700">W<tspan x="7.98" y="0">A</tspan><tspan x="13.21" y="0">VE 3</tspan></text>
+        <text transform="translate(172.61 259.37)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans;font-weight: 700">W<tspan x="7.98" y="0">A</tspan><tspan x="13.21" y="0">VE 4</tspan></text>
+        <text transform="translate(227.33 259.37)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans;font-weight: 700">W<tspan x="7.98" y="0">A</tspan><tspan x="13.21" y="0">VE 5</tspan></text>
+        <text transform="translate(282.82 259.37)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans;font-weight: 700">W<tspan x="7.98" y="0">A</tspan><tspan x="13.21" y="0">VE 6</tspan></text>
+      </g>
+      <g>
+        <text transform="translate(61.39 271.22)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans">2004-07</text>
+        <text transform="translate(116.15 271.22)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans">2007-09</text>
+        <text transform="translate(171.38 271.22)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans">2009-11</text>
+        <text transform="translate(226.1 271.22)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans">2011-13</text>
+        <text transform="translate(281.59 271.22)" style="font-size: 9px;fill: #4e4f4f;font-family: Open Sans">2013-16</text>
+      </g>
+    </g>
+  </g>
+</svg>

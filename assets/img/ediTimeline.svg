@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612 215">
+  <title>
+    EDI Wave Timeline
+  </title>
+  <text transform="translate(149.07 201.92)" font-size="10" fill="#aea299" font-family="'Open Sans', sans-serif" font-style="italic">
+    * Wave 1 is not generally reported - data are used as a benchmark
+  </text>
+  <text transform="translate(490.84 175.93)" font-size="13.615" fill="#231f20" font-family="'Open Sans', sans-serif" font-weight="700">
+    247,724
+  </text>
+  <path fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width=".5" d="M487.29 158.58h57.29v24.19h-57.29zM151.34 170.68h335.7"/>
+  <circle cx="151.44" cy="170.68" r="1.88" fill="#231f20"/>
+  <g font-size="11.67" fill="#231f20" font-family="'Open Sans', sans-serif">
+    <text transform="translate(62.32 127.57)">
+      NUMBER<tspan x="-24.56" y="12.64">OF CHILDREN</tspan>
+    </text>
+    <text transform="translate(32.85 101.29)">
+      SCHOOL YEAR
+    </text>
+    <text transform="translate(26.33 168.82)">
+      TOTAL NUMBER<tspan x="11.43" y="12.64">OF CHILDREN</tspan>
+    </text>
+  </g>
+  <text transform="translate(132.18 134.92)" font-size="13.615" fill="#aea299" font-family="'Open Sans', sans-serif">
+    40,312
+  </text>
+  <path fill="none" stroke="#aea299" stroke-miterlimit="10" stroke-width=".5" d="M125.14 117.58h57.29v24.19h-57.29z"/>
+  <text transform="translate(204.55 134.92)" font-size="13.615" fill="#231f20" font-family="'Open Sans', sans-serif">
+    37,756
+  </text>
+  <path fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width=".5" d="M196.87 117.58h57.29v24.19h-57.29z"/>
+  <text transform="translate(276.97 134.92)" font-size="13.615" fill="#231f20" font-family="'Open Sans', sans-serif">
+    37,398
+  </text>
+  <path fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width=".5" d="M269.86 117.58h57.29v24.19h-57.29z"/>
+  <text transform="translate(350.24 134.92)" font-size="13.615" fill="#231f20" font-family="'Open Sans', sans-serif">
+    46,671
+  </text>
+  <path fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width=".5" d="M342.58 117.58h57.29v24.19h-57.29z"/>
+  <text transform="translate(420.81 134.92)" font-size="13.615" fill="#231f20" font-family="'Open Sans', sans-serif">
+    42,406
+  </text>
+  <path fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width=".5" d="M415.23 117.58h57.29v24.19h-57.29z"/>
+  <text transform="translate(495.31 134.92)" font-size="13.615" fill="#231f20" font-family="'Open Sans', sans-serif">
+    43,181
+  </text>
+  <path fill="none" stroke="#ed1c24" stroke-miterlimit="10" stroke-width=".5" d="M487.04 117.58h57.29v24.19h-57.29z"/>
+  <g font-size="13.615" font-family="'Open Sans', sans-serif">
+    <text transform="translate(127.22 100.74)" fill="#aea299">
+      2001-04
+    </text>
+    <text transform="translate(199.01 100.74)" fill="#231f20">
+      2004-07
+    </text>
+    <text transform="translate(272.54 100.74)" fill="#231f20">
+      2007-09
+    </text>
+    <text transform="translate(347 100.74)" fill="#231f20">
+      2009-11
+    </text>
+    <text transform="translate(418 100.74)" fill="#231f20">
+      2011-13
+    </text>
+    <text transform="translate(489 100.83)" fill="#231f20">
+      2013-16
+    </text>
+  </g>
+  <g fill="#fff" stroke="#cdc3bb" stroke-miterlimit="10" stroke-width=".5">
+    <path fill="none" stroke="#7b6e66" d="M225.37 68.3h355.65M149.56 68.3h75.81"/>
+    <circle cx="152.79" cy="67.63" r="7.14" fill="#cdc3bb"/>
+    <circle cx="225.37" cy="68.3" r="7.14"/>
+    <circle cx="297.95" cy="68.3" r="7.14"/>
+    <circle cx="370.53" cy="68.3" r="7.14"/>
+    <circle cx="443.11" cy="68.3" r="7.14"/>
+    <circle cx="515.69" cy="67.52" r="7.14"/>
+    <circle cx="515.69" cy="67.63" r="5.27" fill="#ed1c24"/>
+    <g transform="rotate(-81.03 589.26 68.308)">
+      <circle cx="589.27" cy="68.3" r="7.14"/>
+      <circle cx="589.27" cy="68.3" r="7.14" fill="none" stroke="#7b6e66" stroke-dasharray="5.329338550567627,2.1317355632781982"/>
+    </g>
+  </g>
+  <g font-size="13.615" fill="#231f20" font-family="'Open Sans', sans-serif">
+    <text transform="translate(127.27 48.57)" fill="#aea299">
+      WAVE 1*
+    </text>
+    <text transform="translate(201.67 48.57)">
+      WAVE 2
+    </text>
+    <text transform="translate(274.7 48.57)">
+      WAVE 3
+    </text>
+    <text transform="translate(346.25 48.57)">
+      WAVE 4
+    </text>
+    <text transform="translate(418.54 48.57)">
+      WAVE 5
+    </text>
+    <text transform="translate(492.04 48.66)">
+      WAVE 6
+    </text>
+  </g>
+</svg>
